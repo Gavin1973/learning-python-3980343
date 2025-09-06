@@ -3,7 +3,8 @@
 
 # Sequences: Lists and Tuples
 # These are -- surprise -- sequences of values
-
+myList = [0, 1, "two", 3.2, False]
+print(len(myList)
 
 # to access a member of a sequence type, use []
 
